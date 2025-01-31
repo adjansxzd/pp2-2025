@@ -1,5 +1,5 @@
-Topics covered in this lab work
+"""Topics covered in this lab work
 Python Functions
 Python Lambda
 Python Classes and Objects.
-Python Inheritance
+Python Inheritance"""
