@@ -3,3 +3,5 @@ Python Functions
 Python Lambda
 Python Classes and Objects.
 Python Inheritance"""
+import math
+
